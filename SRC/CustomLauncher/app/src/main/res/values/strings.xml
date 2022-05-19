@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">みのぶホームメニュー</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">ようこそ！\n身延町 初心者向けタブレット講習会</string>
+    <string name="dummy_help">困った時はスタッフにお声がけください！</string>
+    <string name="assets_file">default.json</string>
+    <string name="custom_file">custom.json</string>
+    <string name="edit_name">設定ファイル編集</string>
+    <string name="edit_title"></string>
+    <string name="save_message">変更を保存しますか？</string>
+    <string name="error_title">エラー</string>
+    <string name="error_message">設定ファイルの編集でエラーが発生しました。変更は保存されません。</string>
+    <string name="undef_message">設定ファイルが読み込めませんホームに戻ります。</string>
+    <string name="edit_message">設定ファイルを変更しました。アプリケーションを再起動させてください。</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>

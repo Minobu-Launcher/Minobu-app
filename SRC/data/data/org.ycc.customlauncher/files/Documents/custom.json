@@ -1,0 +1,74 @@
+{
+  "AppConfig" : {
+    "welcome": "ようこそ！\n身延町 初心者向けタブレット講習会",
+    "group_logo": "",
+    "back_image": "back4.jpg",
+    "app": [
+      {
+        "name": "アシスタント",
+        "label": "音声検索",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "Google",
+        "label": "情報検索",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "マップ",
+        "label": "地図検索",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "みのぶアプリ",
+        "label": "身延の情報",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "カメラ",
+        "label": "写真・ビデオを撮る",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "レンズ",
+        "label": "画像検索",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "フォト",
+        "label": "写真を見る",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "Duo",
+        "label": "ビデオ通話",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "Y!天気",
+        "label": "天気を見る",
+        "shortcut": "",
+        "icon": ""
+      },
+      {
+        "name": "radiko＋FM",
+        "label": "ラジオを聞く",
+        "shortcut": "",
+        "icon": ""
+      }
+    ],
+    "help_1": "困った時はスタッフにお声がけください！",
+    "help_2": "困った時はスタッフにお声がけください！",
+    "help_3": "困った時はスタッフにお声がけください！",
+    "help_4": "困った時はスタッフにお声がけください！",
+    "help_5": "困った時はスタッフにお声がけください！"
+  }
+}
